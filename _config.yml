@@ -1,0 +1,14 @@
+layout_spectrum: 0.8942652
+color:
+  saturation: 0.3875707
+  lightness: 0.532007
+  brandStrength: 0.2278766
+  brandColors:
+    - '#111111'
+    - '#FEFEFE'
+    - '#7A7A7A'
+    - '#393939'
+    - '#CBCBCB'
+  rhythmicContrast: 0.8408499
+typography_spectrum: 0.05376344
+name: TanjaSpirit
